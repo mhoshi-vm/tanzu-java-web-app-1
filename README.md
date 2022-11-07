@@ -4,6 +4,9 @@ Production
 
 # tanzu-java-web-app
 
+> **NOTE** This repo has been archived and the sample has been moved to:  
+> https://github.com/vmware-tanzu/application-accelerator-samples/tree/main/tanzu-java-web-app
+
 This is a sample of a Java Spring app that works with Tilt and the Tanzu Application Platform.
 
 ## Dependencies
